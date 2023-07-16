@@ -1,0 +1,7 @@
+INSTRUCTIONS-
+
+1. The 'MasterDictionary' folder that consists of the list of negative and positive words should be in the same folder as the program file.
+2. The 'StopWords' folder that consists of the lists of stop words should be in the same folder as the program file.
+3. The 'Input.xlsx' file (provided as 'Input.xlsx - Sheet1' file) should be in the same folder as the program file
+4. Make sure you have a working internet connection before running the program.
+5. Make sure all the latest versions of the necessary libraries (pandas, nltk, re, requests, BeautifulSoup) are installed in the system.
